@@ -24,7 +24,7 @@ function sumOfNumbersTo() {
     return sum;
 }
 sumOfNumbersTo();
-assignment.sumOfNumbersTo = sumOfNumbersTo;
+// assignment.sumOfNumbersTo = sumOfNumbersTo;
 
 /**
  * Challenge - 2
@@ -64,7 +64,7 @@ function countEvenNumbersWithin() {
 }
 countEvenNumbersWithin();
 
-assignment.countEvenNumbersWithin = countEvenNumbersWithin;
+// assignment.countEvenNumbersWithin = countEvenNumbersWithin;
 
 /**
  * Challenge - 3
